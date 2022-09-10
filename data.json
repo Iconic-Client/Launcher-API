@@ -3,8 +3,19 @@
     {
       "id": 0,
       "title": "First Release!",
-      "image": "",
+      "image": "https://i.pinimg.com/originals/b5/7b/66/b57b666c6de1778896a77e25bad990bb.jpg",
       "content": "We are glad you chose Iconic! This is the very first release of the launcher developed by our team!"
     }
+    {
+      "id": 1,
+      "title": "Bugs!"
+      "image": "https://preview.redd.it/0g5pg6g2grd61.png?width=1920&format=png&auto=webp&s=d2bacaee1bb4ba0561e0c8743d629a5f66415bea"
+      "content": "This is the first version of the launcher! there are garunteed bugs, please report them!"
+    }
+    {
+      "id": 2,
+      "title": "Enjoy!"
+      "image": "https://i.pinimg.com/originals/ee/ed/f7/eeedf74e2e846ace9d057addccc34f7c.jpg"
+      "content": "Enjoy your Iconic experience!"
   ]
 }
